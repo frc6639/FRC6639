@@ -4,7 +4,9 @@
     <br>
 
 -🧑‍ We are looking to collaborate with other teams in our area for some mentorship 
+<br>
 -🧩 We are currently learning how to work with eachother to collaborate, design, build, and program a robot while always remembering to use gracious progesonalism
+<br>
 -⌛ 2022 Goals: Make top 100 regionals in FRC.
 
 WE HOPE TO SEE ALL OF YOU OUT THERE THIS YEAR!
